@@ -12,7 +12,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ChatJoinRe
 # 1-Ish pip install aiogram
 # 2-Ish  run qilish
 
-TOKEN = "5729562816:AAGFT_r5zklmg8d3Ki2sInroydvtPPWknV8"
+TOKEN = "6799142842:AAGI9W_63USw4dT33BclpPKjso2Rgrlgbyg"
 ADMINS = 1625900856
 
 bot = Bot(token=TOKEN)
