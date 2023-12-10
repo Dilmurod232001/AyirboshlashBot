@@ -13,7 +13,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ChatJoinRe
 # 2-Ish  run qilish
 
 TOKEN = "6799142842:AAGI9W_63USw4dT33BclpPKjso2Rgrlgbyg"
-ADMINS = 1625900856
+ADMINS = 782568565
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
